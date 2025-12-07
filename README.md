@@ -10,7 +10,7 @@
 | **Matéria**     | Computational Thinking                                |
 | **Orientador**      | Mateus Filipe Domingos                |
 | **Carga Horária**   | 50 horas                              |
-| **Período**         | 07/07/2025 - 01/10/2025        |
+| **Período**         | 04/12/2025 - 07/12/2025        |
 | **Instituição**     | UNASP                                 |
 
 
